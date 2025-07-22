@@ -1,6 +1,6 @@
 /*DELETING AN ELEMENT */
 
 
-public class StusentChallenge3 {
+public class StudentChalleng3 {
     
 }
