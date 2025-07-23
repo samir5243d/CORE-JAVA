@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class StudentChallenge3 {
+public class StudentChallenge3A {
 
     // REVERSE of A NO
 

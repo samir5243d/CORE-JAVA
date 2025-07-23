@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class StudentChallenge2 {
+public class StudentChallenge2A {
     // public static void main(String[] args) {
 
     // // TASK 1- DISPLAY DIGITS OF NO

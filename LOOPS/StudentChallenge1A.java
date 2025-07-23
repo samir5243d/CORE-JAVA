@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentChallenge1 {
+public class StudentChallenge1A {
 
     // 1 //DISPLAY MULTIPLICATION TABLE
 
