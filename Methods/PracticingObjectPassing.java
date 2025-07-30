@@ -4,6 +4,11 @@ public class PracticingObjectPassing {
         A[index] = value;
     }
 
+    static void change2(int x, int value){
+        x= value; // This will not change the original value of x in main
+
+    }
+
     public static void main(String[] args) {
 
         int A[] = { 2, 4, 6, 8, 10 };
@@ -13,6 +18,10 @@ public class PracticingObjectPassing {
         for(int x:A){
             System.out.println(x);
         }
+
+        // int x=10;
+        // change2(x,20);
+        // System.out.println("Value of x after change2: " + x); // This will still print 10
 
     }
 
